@@ -14,7 +14,7 @@ Please feel free to take a look around. Some notes are more polished than others
 Do let me know if you have any thoughts at [me@johnathan.cc](mailto:me@johnathan.cc).
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  I'm Johnathan Sun, a student at Harvard studying Applied Mathematics and Economics. I'm interested in macroeconomic policy, quantitative techniques in the social sciences, and advances in AI/ML.
+  I'm a student at Harvard studying applied mathematics. I'm interested in macroeconomic policy, quantitative techniques in the social sciences, and advances in AI/ML.
 </p>
 
 <strong>Recently updated notes</strong>

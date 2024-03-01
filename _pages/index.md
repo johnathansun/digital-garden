@@ -5,15 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hello!
+
+These are a collection of notes and thoughts on a small corner of the web.
+
+Please feel free to take a look around. Some notes are more polished than others, but hopefully they're useful or interesting in some capacity. You can find an interactive graph of notes <a class="internal-link" href="{{ site.baseurl }}/graph">here</a>.
+
+Do let me know if you have any thoughts at [me@johnathan.cc](mailto:me@johnathan.cc).
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  I'm Johnathan Sun, a student at Harvard studying Applied Mathematics and Economics. I'm interested in macroeconomic policy, quantitative techniques in the social sciences, and advances in AI/ML.
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
